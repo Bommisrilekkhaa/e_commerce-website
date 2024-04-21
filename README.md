@@ -1,1 +1,1 @@
-# An E-Commerce Website using HTML, CSS !!
+# An E-Commerce Website using HTML, CSS and JS !!
